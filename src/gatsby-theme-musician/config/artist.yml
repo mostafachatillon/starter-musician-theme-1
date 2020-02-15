@@ -1,6 +1,6 @@
 artist:
-  name: Your Awesome Band
-  tagline: Short information about your group, new album, etc
+  name: Melwy
+  tagline: Data against diseases
   # seo_title:
   # seo_description:
   # contact_twitter_username:
@@ -8,8 +8,8 @@ artist:
   # contact_email: 
 
 social:
-  - name: Facebook
-    url: https://facebook.com
+  - name: Medium
+    url: https://melwy.com/blog
   - name: Instagram
     url: https://instagram.com
   - name: Twitter
