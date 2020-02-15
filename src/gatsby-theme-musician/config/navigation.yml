@@ -2,6 +2,6 @@ navigation:
   - text: Papers
     url: "https://scholar.google.com"
   - text: Blog
-    url: "/blog"
+    url: "https://friendly-mayer-1dfe12.netlify.com/blog"
   - text: Contact
     url: "#contact"
