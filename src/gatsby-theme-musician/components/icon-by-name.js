@@ -11,7 +11,7 @@ import {
   FaSlack,
   FaSoundcloud,
   FaSpotify,
-  FaTelegram
+  FaTelegram,
   FaTumblr,
   FaTwitter,
   FaYoutube,
