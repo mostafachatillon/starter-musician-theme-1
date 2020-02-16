@@ -8,15 +8,15 @@ artist:
   # contact_email: 
 
 social:
-  - name: Medium
+  - name: school
     url: https://melwy.com/blog
-  - name: Instagram
+  - name: feather
     url: https://instagram.com
   - name: Twitter
     url: https://twitter.com
   - name: Youtube
     url: https://youtube.com
-  - name: Spotify
+  - name: slack
     url: https://spotify.com
 
 site_language: en
