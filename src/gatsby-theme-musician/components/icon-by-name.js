@@ -32,12 +32,12 @@ let bandcampIcon = <FaBandcamp focusable="false" aria-hidden="true" />
 let globeIcon = <FaGlobe focusable="false" aria-hidden="true" />
 let instagramIcon = <FaInstagram focusable="false" aria-hidden="true" />
 
-let featherIcon = <GiFeather focusable="false" aria-hidden="true" />
 let githubIcon = <FaGithub focusable="false" aria-hidden="true" />
 let calendarIcon = <FaRegCalendarCheck focusable="false" aria-hidden="true" />
 let slackIcon = <FaSlack focusable="false" aria-hidden="true" />
 let telegramIcon = <FaTelegram focusable="false" aria-hidden="true" />
 let schoolIcon = <MdSchool focusable="false" aria-hidden="true" />
+let featherIcon = <GiFeather focusable="false" aria-hidden="true" />
 
 let soundcloudIcon = <FaSoundcloud focusable="false" aria-hidden="true" />
 let spotifyIcon = <FaSpotify focusable="false" aria-hidden="true" />
@@ -69,7 +69,9 @@ const Icon = props => {
     case "telegram":
       return telegramIcon 
     case "school":
-      return schoolIcon  
+      return schoolIcon        
+    case "feather":
+      return featherIcon  
  
     case "spotify":
       return spotifyIcon
