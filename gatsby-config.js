@@ -24,5 +24,11 @@ module.exports = {
         // pwaName: null
       }
     }
-  ]
+  ],
+  
+   proxy: {
+    prefix: "/blog",
+    url: "https://epic-turing-b4c9c4.netlify.com",
+  },
+  
 };
