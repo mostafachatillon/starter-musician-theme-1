@@ -1,4 +1,1 @@
-
-# Invisbily proxy to a third party API
 /blog            https://friendly-mayer-1dfe12.netlify.com/blog      200
-/blog/*  https://friendly-mayer-1dfe12.netlify.com/blog/:splat     200
