@@ -2,11 +2,27 @@
 
 <Container>
 
-**Hello there! You are looking at the placeholder content of [gatsby-theme-musician](https://github.com/ekafyi/gatsby-theme-musician) 🎸.** It is a [Gatsby theme](https://www.gatsbyjs.org/docs/themes/what-are-gatsby-themes/) for bands and solo artists to create a landing page—that is also versatile enough to be extended into a full website and combined with other themes to add other functionalities, if you want to.
+Melwy (ex-Startcrowd) is an online lab in artificial intelligence and data science, for precision medicine and drug discovery.
 
-This theme comes with several components out of the box, such as the _“Releases”_ and _“Shows”_ sections below. You can see the complete list on the [Sample Page](/sample-page). To learn about how to use this theme and add your content, check out the [Theme Documentation](https://github.com/ekafyi/gatsby-theme-musician/tree/master/docs). Or read the [introductory post and walkthrough](https://dev.to/ekafyi/make-a-landing-page-for-your-band-in-30-minutes-with-gatsby-theme-musician-2227).
+  Research topics include:
 
-Have fun and rock on!
+  
+
+- Computational biology: prediction of cancer immunotherapy outcomes ([checkpoint inhibitors](https://melwy.com/blog/how-to-better-predict-cancer-immunotherapy-results) and [CAR-T cells](https://melwy.com/blog/car-t-cells-for-solid-cancers-reducing-risks-by-feeding-back-clinical-data)), with machine learning and transfer learning.  
+
+  
+
+- Computational chemistry: predictive and generative models for drug discovery, [with](https://medium.com/the-ai-lab/diversitynet-a-collaborative-benchmark-for-generative-ai-models-in-chemistry-f1b9cc669cba) or [without deep learning](https://medium.com/the-ai-lab/you-didnt-need-deep-learning-to-generate-new-molecules-4c784747b2cc), and [without hype](https://medium.com/the-ai-lab/artificial-intelligence-in-drug-discovery-is-overhyped-examples-from-astrazeneca-harvard-315d69a7f863).
+
+  
+
+Learn more in the [blog](https://melwy.com/blog), [papers](https://scholar.google.fr/scholar?as_q=&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=mostapha%20benhenda&as_publication=&as_ylo=2017&as_yhi=&hl=en&as_sdt=0,5), and [videos](https://youtu.be/AGSbV_XUUvY?list=PLQQ7q6Ebc9A7Izcn1_Myi4nfyGxYzbWPk).
+
+  
+
+Connect with hundreds of experts and enthusiasts, on [Slack](https://join.slack.com/t/dsformedicine/shared_invite/enQtODA1MDc1NDQ4ODIyLTMzNWFiY2YwYmQ4NDBkYTE5ZWQ0NDQ4YmNiMGE5MmMyYWU5MTkyNjgzMDFiNjdjNjRhYWUwNDJjZThjZmQzZDM) and [Telegram](https://t.me/joinchat/Go4mTxRr9Tbx53S_w-0-vQ) communities.
+
+For direct collaboration, [write an email](mailto:hello@melwy.com), or fill the form:
 
 <p className="text-center">
   <a class="gtm-button" href="https://github.com/ekafyi/gatsby-theme-musician/tree/master/docs" rel="external">
